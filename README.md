@@ -52,7 +52,14 @@ Membuat menu navigasi untuk memudahkan pencarian atau mengakses sesuatu dengan m
 ![10 Menambah Konten Artikel](https://user-images.githubusercontent.com/56438848/115118209-54377f00-9fcc-11eb-8c82-8c2aaea4db62.JPG)
 
 
+# **Menu About**
 
+![Menu About](https://user-images.githubusercontent.com/56438848/115118658-7a5e1e80-9fce-11eb-9450-1ac1d960ccad.JPG)
+
+
+# **Menu Contact**
+
+![Menu Contact](https://user-images.githubusercontent.com/56438848/115118662-7c27e200-9fce-11eb-866a-f5a632027cc9.JPG)
 
 
 </br>
