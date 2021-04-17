@@ -67,6 +67,6 @@ Membuat menu navigasi untuk memudahkan pencarian atau mengakses sesuatu dengan m
 <b><i>Jangan lupa untuk selalu menyimpan setiap perubahan yang dilakukan.</i></b>
 </br>
 </br>
-<b><i>Semua file HTML dan CSS tersedia, jika kurang jelas pada gambar, bisa lihat langsung pada kode</i></b>
+<b><i>Semua file HTML dan CSS disertakan di atas, jika kurang jelas pada gambar, bisa lihat langsung pada kode untuk menyocokkan.</i></b>
 </br>
 </br>
